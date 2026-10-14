@@ -1,7 +1,7 @@
 # Business Requirements Document (BRD) — Section 1
 ## Product Name: Enterprise Omnichannel Return & Exchange SaaS Engine
 **Target Client Profile:** Enterprise Indian Fashion Brands & High-Volume D2C Retailers (e.g., Snitch, Bewakoof, ABFRL)  
-**Author:** Vishnu Rameshan
+**Author:** Vishnu Rameshan  
 **Version:** 1.0 (MVP Scope)
 
 ---
