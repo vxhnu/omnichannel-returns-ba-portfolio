@@ -1,6 +1,6 @@
 # Document 06 — Change Management Plan, Release Engineering & Risk Matrix
 **Project:** Enterprise Omnichannel Return & Exchange SaaS Engine  
-**Author:** Vishnu Rameshan (Senior Business Analyst)  
+**Author:** Vishnu Rameshan    
 **Status:** Approved Operational & Release Engineering Baseline
 
 ---
