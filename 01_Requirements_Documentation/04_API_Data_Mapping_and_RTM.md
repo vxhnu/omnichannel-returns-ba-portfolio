@@ -1,5 +1,5 @@
 # Document 04 — System Architecture, API Data Mapping, Data Dictionary & RTM  
-**Author:** Vishnu Rameshan 
+**Author:** Vishnu Rameshan   
 **Status:** Approved Technical Architecture & Integration Spec
 
 ---
