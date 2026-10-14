@@ -1,6 +1,6 @@
 # Document 05 — User Acceptance Testing (UAT) Plan & Execution Matrix
 **Project:** Enterprise Omnichannel Return & Exchange SaaS Engine  
-**Author:** Vishnu Rameshan (Senior Business Analyst)  
+**Author:** Vishnu Rameshan  
 **Status:** Approved Quality Assurance & UAT Specification
 
 ---
