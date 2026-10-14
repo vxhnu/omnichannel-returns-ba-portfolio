@@ -1,6 +1,6 @@
 # Document 03 — Agile User Stories & Backlog Specifications
 **Project:** Enterprise Omnichannel Return & Exchange SaaS Engine  
-**Author:** Vishnu Rameshan (Senior Business Analyst)  
+**Author:** Vishnu Rameshan 
 **Status:** Sprint-Ready Backlog
 
 ---
