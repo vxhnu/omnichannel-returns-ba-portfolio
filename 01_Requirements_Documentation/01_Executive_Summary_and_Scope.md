@@ -1,7 +1,7 @@
 # Business Requirements Document (BRD) — Section 1
 ## Product Name: Enterprise Omnichannel Return & Exchange SaaS Engine
 **Target Client Profile:** Enterprise Indian Fashion Brands & High-Volume D2C Retailers (e.g., Snitch, Bewakoof, ABFRL)  
-**Author:** Senior Business Analyst (Accenture Song Portfolio)  
+**Author:** Vishnu Rameshan
 **Version:** 1.0 (MVP Scope)
 
 ---
@@ -66,7 +66,7 @@ $$\text{Return Rate (\%)} = \left( \frac{\text{Total Returned Orders}}{\text{Tot
 * **Goal:** Scan incoming barcodes, inspect item tags, and log item conditions in under 30 seconds.
 * **Frustration:** Handwritten order numbers on boxes; missing order details in the system.
 
-#### Persona 4: The System Integrator & BA Lead (Accenture Song Consultant)
+#### Persona 4: The System Integrator & BA Lead 
 * **Profile:** Implementation consultant leading enterprise client onboarding.
 * **Goal:** Configure API data contracts between the SaaS engine, client OMS, courier webhooks, and payment gateways.
 * **Frustration:** Rigid off-the-shelf software that cannot adapt to Indian payment architectures or custom brand requirements.
